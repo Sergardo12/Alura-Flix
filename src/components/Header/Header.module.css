@@ -1,0 +1,12 @@
+.headerContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: var(--grisBody);
+    padding: .5rem;
+}
+
+.navBar {
+    display: flex;
+    gap: 2rem;
+}

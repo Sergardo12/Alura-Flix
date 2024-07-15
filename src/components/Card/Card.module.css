@@ -1,0 +1,59 @@
+.videosContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 20rem;
+    border-radius: 5px;
+    transition: transform 0.3s ease
+    
+}
+
+.videosContainer:hover {
+    transform: scale(1.05); 
+  }
+
+
+.imagenCard{
+    border-radius: 5px 5px 0 0;
+} 
+
+.videosInfo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    color: #e3e3e3;
+    background-color: black;
+    border-radius: 0 0 5px 5px;
+}
+
+.videosInfo h3{
+    padding: 1rem;
+}
+
+.buttonsCard{
+    padding: .5rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    width: 100%;
+    background-color: var(--grisBody);
+    border-radius: 0 0 5px 5px;
+    
+}
+
+.buttonsCard button{
+    font-size: 18px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding-inline: 1rem;
+}
+
+.buttonsCard button:hover{
+    color: #fff;
+    transition: 0.3s all;
+    background-color: rgb(32, 91, 201);
+}
+

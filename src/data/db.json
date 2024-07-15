@@ -1,0 +1,100 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Intensamente 2",
+      "imagen": "https://posters.movieposterdb.com/24_03/2024/22022452/l_inside-out-2-movie-poster_4b749fa4.jpg",
+      "categoria": "Animacion",
+      "link": "https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    },
+    {
+      "id": "2",
+      "titulo": "Garfield",
+      "imagen": "https://posters.movieposterdb.com/23_12/2024/5779228/l_the-garfield-movie-movie-poster_c56f63c9.jpg",
+      "categoria": "Animacion",
+      "link": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    },
+    {
+      "id": "3",
+      "titulo": "Grandes Heroes",
+      "imagen": "https://posters.movieposterdb.com/15_11/2014/2245084/l_2245084_d1210886.jpg",
+      "categoria": "Animacion",
+      "link": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    },
+    {
+      "id": "4",
+      "titulo": "Ralph el Demoledor",
+      "imagen": "https://posters.movieposterdb.com/22_09/2018/5848272/l_ralph-breaks-the-internet-movie-poster_043acbd5.jpg",
+      "categoria": "Animacion",
+      "link": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    },
+    {
+      "id": "5",
+      "titulo": "El Planeta de los simios",
+      "imagen": "https://posters.movieposterdb.com/23_11/2024/11389872/l_kingdom-of-the-planet-of-the-apes-movie-poster_6d194455.jpg",
+      "categoria": "Accion",
+      "link": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    },
+    {
+      "id": "6",
+      "titulo": "Bad Boys para siempre",
+      "imagen": "https://posters.movieposterdb.com/24_05/2024/4919268/l_bad-boys-ride-or-die-movie-poster_462aee20.jpg",
+      "categoria": "Accion",
+      "link": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    },
+    {
+      "id": "7",
+      "titulo": "Un lugar en silencio",
+      "imagen": "https://posters.movieposterdb.com/24_06/2024/13433802/l_a-quiet-place-day-one-movie-poster_33e58c04.jpg",
+      "categoria": "Accion",
+      "link": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    },
+    {
+      "id": "8",
+      "titulo": "Deadpool y Wolverine",
+      "imagen": "https://posters.movieposterdb.com/24_04/2024/6263850/l_deadpool-wolverine-movie-poster_269f8e79.jpg",
+      "categoria": "Accion",
+      "link": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    },
+    {
+      "id": "9",
+      "titulo": "Una navidad de locos",
+      "imagen": "https://posters.movieposterdb.com/04_12/2004/0388419/l_719_0388419_0620f734.jpg",
+      "categoria": "Comedia",
+      "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    },
+    {
+      "id": "10",
+      "titulo": "Sillicon Valley",
+      "imagen": "https://posters.movieposterdb.com/22_12/2014/2575988/l_silicon-valley-movie-poster_e4e26056.jpg",
+      "categoria": "Comedia",
+      "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    },
+    {
+      "id": "11",
+      "titulo": "Una esposa de mentiras",
+      "imagen": "https://posters.movieposterdb.com/11_02/2011/1564367/l_1564367_2ae5d904.jpg",
+      "categoria": "Comedia",
+      "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    },
+    {
+      "id": "12",
+      "titulo": "Baywatch",
+      "imagen": "https://posters.movieposterdb.com/22_04/2017/1469304/l_1469304_53d07ab6.jpg",
+      "categoria": "Comedia",
+      "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
+      "sinopsis": "Ryled se enfrenta a la pubertad"
+    }
+  ]
+}

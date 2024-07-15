@@ -1,0 +1,77 @@
+.form {
+    width: 60rem;
+    max-width: 100%;
+    margin: 0 auto;
+    padding-bottom: 12rem;
+}
+
+.form h2 {
+    font-size: 3rem;
+    font-weight: 500;
+    border-bottom: 1px solid #e2e2e240;
+    border-top: 1px solid #e2e2e240;
+    padding: 1rem 0;
+    color: #e2e2e2;
+}
+
+.divForm {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: rgb(12, 24, 37);
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.5);
+}
+
+.divCampoForm {
+    flex: 1 1 45%;
+    margin: 1rem;
+    min-width: 280px; /* Asegura que el contenido no sea demasiado pequeño */
+}
+
+.divCampoForm label {
+    display: block;
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 8px;
+    color: #e2e2e2;
+}
+
+.divCampoForm input, .divCampoForm select, .divCampoForm textarea {
+    width: 100%;
+    padding: 8px;
+    background-color: transparent;
+    border: 1px solid #e2e2e240;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.08);
+    box-sizing: border-box;
+    color: white;
+}
+
+.divCampoForm textarea {
+    height: 100px;
+    resize: none;
+}
+
+.buttonContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.botonFormulario {
+    padding: 1rem 2rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.botonFormulario:hover {
+    background-color: #0056b3;
+}
